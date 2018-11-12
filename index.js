@@ -161,10 +161,10 @@ const Styles = StyleSheet.create({
   },
 
   touchable: {
-    width: 35,
-    height: 26,
+    width: 36,
+    height: 36,
     borderWidth: 1,
-    borderRadius: 15,
+    borderRadius: 18,
     alignItems: "center",
     justifyContent: "center"
   }
